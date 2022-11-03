@@ -2,9 +2,8 @@
 
 A simple portfolio template for developer/designers built with React. 
 
-### [live preview](https://ubaimutl.github.io/react-portfolio/)
+### [live preview](https://bsonatunde.netlify.app/)
 
-[![react portfoiio](src/assets/images/react%20portfolio%20gif.gif)](https://ubaimutl.github.io/react-portfolio/)
 
 ### Features
 
@@ -18,7 +17,7 @@ A simple portfolio template for developer/designers built with React.
 
 Get the code
 
-<pre>git clonehttps://bsonatunde.netlify.app/</pre>
+
  
 Install required dependencies
 
