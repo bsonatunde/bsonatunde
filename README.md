@@ -1,37 +1,24 @@
 ### Description
+I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because i find it Passionate. I am a Problem Solver Kindly check my Portfolio..
 
-A simple portfolio template for developer/designers built with React. 
+
+### Bsonat portfolio 
 
 ### [live preview](https://bsonatunde.netlify.app/)
 
 
-### Features
+### Skills
 
-- Fully Responsive
-- Multi-Page Layout
-- Contact Form With EmailJs
+- React JS
+- Html
+- JavaScript
+- Css- Tailwind 
 - React-Bootstrap
-- Edit Content From One Place
-
-### Setup
-
-Get the code
+- Figma/ Adobe XD
 
 
- 
-Install required dependencies
 
-<pre>yarn install</pre>
-
-
-Start the server
-
-<pre>yarn start</pre>
-
-### More
-
-Modify pages content in  `src/content_option.js`.
 
 ### Thanks
-
-If you like this portfolio template don't forget give it a ⭐ 
+Thank
+If you like this portfolio  don't forget give it a ⭐ 
