@@ -12,10 +12,11 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 - React JS
 - Html
 - JavaScript
-- Css- Tailwind 
+- Css-Tailwind 
 - React-Bootstrap
 - Figma/ Adobe XD
 - boostrap
+- Wordpress
 
 
 
