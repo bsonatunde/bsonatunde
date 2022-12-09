@@ -17,6 +17,7 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 - Figma/ Adobe XD
 - boostrap
 - Wordpress
+- Graphics Desidgn
 
 
 
