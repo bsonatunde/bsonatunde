@@ -18,8 +18,6 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 - boostrap
 - Wordpress
 - Graphics Desidgn
-- Css
-
 
 
 
