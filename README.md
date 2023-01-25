@@ -19,6 +19,7 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 - Wordpress
 - Graphics Desidgn
 - Css
+- next js
 
 
 
