@@ -109,18 +109,18 @@ const dataportfolio = [{
 
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "Designing NfT And Ecommerce",
+        link: "https://metabnb-bsonat.netlify.app/",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "Creating form for web page for different login page ",
+        link: "https://bsonat-form.netlify.app",
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "Linktree Project",
+        link: "https://linktreebsonat.netlify.app",
     },
     {
         img: "https://picsum.photos/400/550/?grayscale",
