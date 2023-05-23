@@ -88,8 +88,8 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "Pacey school management software is a complete web solution produce to meet the need of the school in order to keep track of all records and manage all the data it generates, including information about a student’s grades, attendance, interpersonal activity logs, etc.",
+        link: "https://paceysoft.com/",
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
@@ -98,8 +98,8 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "Form react Web Page",
+        link: "https://bsonat-form.netlify.app",
     },
     {
         img: therapy,
