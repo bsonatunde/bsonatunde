@@ -93,7 +93,7 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "Ecommerce website for shopping",
+        desctiption: "Ecommerce website for shopping and  payment",
         link: "https://bsonatshoppingmall.netlify.app/",
     },
     {
