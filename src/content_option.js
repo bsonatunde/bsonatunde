@@ -93,8 +93,8 @@ const dataportfolio = [{
     },
     {
         img: "https://picsum.photos/400/600/?grayscale",
-        desctiption: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        desctiption: "Ecommerce website for shopping",
+        link: "https://bsonatshoppingmall.netlify.app/",
     },
     {
         img: "https://picsum.photos/400/300/?grayscale",
