@@ -10,6 +10,7 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 ### Skills
 
 - React JS
+- Vue JS
 - Html
 - JavaScript
 - Css-Tailwind 
