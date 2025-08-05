@@ -4,7 +4,7 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 
 ### Bsonat portfolio 
 
-### [live preview](https://bsonatportfolio.vercel.app/)
+### [live preview](https://bsonat.onrender.com/)
 
 
 ### Skills
@@ -13,6 +13,9 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 - Vue JS
 - Html
 - JavaScript
+- Express js
+- node js
+- mongodb
 - Css-Tailwind 
 - React-Bootstrap
 - Figma/ Adobe XD
