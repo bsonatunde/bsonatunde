@@ -4,7 +4,7 @@ I am Onatunde Bolaji front-End Developer/ Ui/Ux Designer I lov what i do because
 
 ### Bsonat portfolio 
 
-### [live preview](https://bsonat.onrender.com/)
+### [live preview](https://bsonatunde.vercel.app/)
 
 
 ### Skills
